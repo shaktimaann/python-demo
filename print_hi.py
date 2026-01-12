@@ -1,3 +1,2 @@
 for i in range(10):
-    print("Hi !")
-    print("Everyone")
+    print("Hi! everyone")
